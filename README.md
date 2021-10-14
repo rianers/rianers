@@ -3,7 +3,7 @@
 <img height="180em" src="https://64.media.tumblr.com/e33e870cb73dfeb5e8b5654dd3edb30d/tumblr_o1rzpey14q1v1b8nao2_250.gifv">
 
 -🔭 Currently work: C# <br>
--👨‍🎓 Studying: Analysis and Development of Systems at <a href="https://www.fiap.com.br">Fiap </a><br>
+-👨‍🎓 Studying: Analysis and Development of Systems <br>
 -🌱 Learning: C#, JS, Java, Python <br>
 -🎒 Main Tools: Visual Studio and Visual Studio Code <br>
 
